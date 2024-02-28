@@ -1,0 +1,19 @@
+{
+  "name": "test-app2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "@googleapis/docs": "^3.0.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "googleapi": "^1.0.2",
+    "googleapis": "^105.0.0"
+  }
+}

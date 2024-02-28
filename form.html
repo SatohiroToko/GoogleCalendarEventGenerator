@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Create Event</title>
+</head>
+<body>
+  <h1>Create Event</h1>
+  <form action="/create-event" method="POST">
+    <label for="summary">Summary:</label>
+    <input type="text" name="summary" id="summary" required>
+    <br>
+    <label for="start_time">End Time:</label>
+    <input type="datetime-local" name="start_time" id="start_time" required>
+    <br>
+    <label for="end_time">End Time:</label>
+    <input type="datetime-local" name="end_time" id="end_time" required>
+    <br>
+    <button type="submit">Create Event</button>
+  </form>
+</body>
+</html>
