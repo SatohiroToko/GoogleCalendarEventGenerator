@@ -5,7 +5,7 @@
 ### セットアップ
 
 ```shell
-git clone git@github.com:SatohiroToko/feb28-21-26.git
+git git@github.com:SatohiroToko/GoogleCalendarEventGenerator.git
 ```
 
 <br>
